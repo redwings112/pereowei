@@ -15,7 +15,7 @@ logging.basicConfig(
 
 # === Deriv API & Bot Settings ===
 DERIV_API = "wss://ws.derivws.com/websockets/v3?app_id=1089"
-API_TOKEN = "sYWfIWgba40Idz2"  # ⚠️ Replace with your own
+API_TOKEN = "fu_ku"  # ⚠️ Replace with your own
 STAKE_AMOUNT = 500.00
 RECOVERY_AMOUNT = 100.00
 SYMBOL = "R_50"
@@ -203,3 +203,4 @@ def start_bot():
 
 if __name__ == "__main__":
     start_bot()
+
